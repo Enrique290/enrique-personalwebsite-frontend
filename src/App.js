@@ -6,13 +6,15 @@ import "../src/App.css";
 
 function App() {
   return (
-    <Router>
-      <Switch>
-        {routes.map((route, index) => (
-          <RouterWithSubRoutes key={index} {...route} />
-        ))}
-      </Switch>
-    </Router>
+    <body>
+      <Router>
+        <Switch>
+          {routes.map((route, index) => (
+            <RouterWithSubRoutes key={index} {...route} />
+          ))}
+        </Switch>
+      </Router>
+    </body>
   );
 }
 

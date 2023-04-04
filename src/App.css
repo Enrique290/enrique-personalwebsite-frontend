@@ -20,6 +20,6 @@
   --github: #171515;
 }
 
-.homePage {
+body {
   background-color: var(--background-light);
 }

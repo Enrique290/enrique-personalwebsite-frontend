@@ -1,27 +1,27 @@
 @import "../../../App.css";
 
-.socialLinks {
+.socialLinks .socialLinks {
   display: flex;
   justify-content: center;
 }
 
-.btn-linkedin {
+.socialLinks .btn-linkedin {
   background-color: var(--linkedin);
   padding: 0px 5px;
   margin-right: 8px;
 }
 
-.btn-linkedin i {
+.socialLinks .btn-linkedin i {
   color: #ffffff;
   font-size: 20px;
 }
 
-.btn-github {
+.socialLinks .btn-github {
   background-color: var(--github);
   padding: 0px 5px;
 }
 
-.btn-github i {
+.socialLinks .btn-github i {
   color: #ffffff;
   font-size: 20px;
 }
