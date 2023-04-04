@@ -6,7 +6,7 @@ import "../src/App.css";
 
 function App() {
   return (
-    <body>
+    <div className="pageBody">
       <Router>
         <Switch>
           {routes.map((route, index) => (
@@ -14,7 +14,7 @@ function App() {
           ))}
         </Switch>
       </Router>
-    </body>
+    </div>
   );
 }
 
