@@ -10,8 +10,11 @@ import oracleIcon from "../../../assets/img/homePage/knowledge/oracle.svg";
 import postgreSQL from "../../../assets/img/homePage/knowledge/PostgreSQL_logo.svg";
 import mongoIcon from "../../../assets/img/homePage/knowledge/mongodb-icon.svg";
 import networkingIcon from "../../../assets/img/homePage/knowledge/networking.png";
+import windowsOSIcon from "../../../assets/img/homePage/knowledge/windowsOSIcon.png";
 import tux from "../../../assets/img/homePage/knowledge/linux-tux.svg";
-import linuxBash from "../../../assets/img/homePage/knowledge/console.png";
+import macOSIcon from "../../../assets/img/homePage/knowledge/macOSIcon.png";
+import windowsServerIcon from "../../../assets/img/homePage/knowledge/windowsServerIcon.png";
+import bash from "../../../assets/img/homePage/knowledge/console.png";
 import scrum from "../../../assets/img/homePage/knowledge/scrum.png";
 import officeIcon from "../../../assets/img/homePage/knowledge/office.png";
 
@@ -83,14 +86,32 @@ const cards = [
     level: "Essential (3 CISCO Certificates)",
   },
   {
+    cover: windowsOSIcon,
+    title: "Windows OS",
+    description: "",
+    level: "Personal/Practical",
+  },
+  {
     cover: tux,
     title: "Linux OS",
     description: "",
-    level: "Personal",
+    level: "Personal/Practical",
   },
   {
-    cover: linuxBash,
-    title: "Linux Bash",
+    cover: macOSIcon,
+    title: "Mac OS",
+    description: "",
+    level: "Work",
+  },
+  {
+    cover: windowsServerIcon,
+    title: "Windows Server",
+    description: "",
+    level: "Basic",
+  },
+  {
+    cover: bash,
+    title: "Bash",
     description: "",
     level: "Personal/Practical",
   },

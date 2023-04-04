@@ -11,7 +11,7 @@ export default function Banner() {
         <img src={Avatar} alt="Avatar" />
         <div className="text-container">
           <h1>Enrique Castillo Corona</h1>
-          <h2>Cybernetic and computer systems enginnering student</h2>
+          <h2>Cybernetic and computer systems enginner</h2>
         </div>
       </div>
     </div>

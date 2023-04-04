@@ -10,7 +10,7 @@ export default function experience() {
       <h1>Experience</h1>
       <div className="experience-card">
         <h2>MNJ CAPITAL - IT area Auxiliar</h2>
-        <h4>APRIL 2022 - Actuallity</h4>
+        <h4>APRIL 2022 - AUGUST 2022</h4>
         <div className="card-exp-content">
           <a href="https://mnjcapital.com.mx/" target="_blank">
             <img src={mnjCapital} alt="img" />

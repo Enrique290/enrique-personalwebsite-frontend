@@ -12,8 +12,7 @@ export default function Footer() {
           <div className="col">
             <img src={Logo} alt="EnriqueCC_Logo" className="navbar-brand" />
             <label>
-              Young university student in search of new opportunities to grow
-              and improve as professional and person.
+              Professional in search of new opportunities to grow and improve.
             </label>
             <label className="personal">
               PERSONAL WEB | ENRIQUE CASTILLO CORONA
