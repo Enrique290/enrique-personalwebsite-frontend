@@ -1,7 +1,7 @@
 import React from "react";
 
-import CurriculumPDFEN from "../../../assets/pdf/homePage/CurrículumEN.pdf";
-import CurriculumPDFES from "../../../assets/pdf/homePage/CurrículumES.pdf";
+// import CurriculumPDFEN from "../../../assets/pdf/homePage/CurrículumEN.pdf";
+import CurriculumPDFES from "../../../assets/pdf/homePage/CV-ES.pdf";
 import "./cv.css";
 
 export default function CV() {
