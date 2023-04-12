@@ -22,6 +22,12 @@ export default function CV() {
             Descargar
           </button>
         </a>
+        <embed
+          src={CurriculumPDFES}
+          type="application/pdf"
+          height={800}
+          width={500}
+        />
       </div>
     </div>
   );
