@@ -10,6 +10,7 @@ export default function SocialLinks() {
         role="button"
         target="_blank"
         href="https://www.linkedin.com/in/enrique-castillo-corona/"
+        rel="noreferrer"
       >
         <i className="bi bi-linkedin"></i>
       </a>
@@ -18,6 +19,7 @@ export default function SocialLinks() {
         role="button"
         target="_blank"
         href="https://github.com/Enrique290"
+        rel="noreferrer"
       >
         <i className="bi bi-github"></i>
       </a>

@@ -32,6 +32,7 @@ function GroupCertificates() {
                   type="button"
                   href={certificate.pdf}
                   target="_blank"
+                  rel="noreferrer"
                 >
                   <i className="bi bi-download" />
                 </a>

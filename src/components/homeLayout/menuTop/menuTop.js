@@ -9,8 +9,13 @@ export default function MenuTop() {
     <div className="menuTop">
       <div className="container-xl">
         <nav className="navbar navbar-expand-lg navbar-dark">
-          <a href="/">
-            <img src={Logo} alt="EnriqueCC_Logo" className="navbar-brand" />
+          <a href="/" rel="noreferrer">
+            <img
+              src={Logo}
+              alt="EnriqueCC_Logo"
+              rel="noreferrer"
+              className="navbar-brand"
+            />
           </a>
 
           <button
@@ -28,17 +33,21 @@ export default function MenuTop() {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item menuTop-item">
-                <a className="nav-link active" href="/">
+                <a className="nav-link active" href="/" rel="noreferrer">
                   Home
                 </a>
               </li>
               <li className="nav-item menuTop-item">
-                <a className="nav-link active" href="/contact">
+                <a className="nav-link active" href="/contact" rel="noreferrer">
                   Contact
                 </a>
               </li>
               <li className="nav-item menuTop-item">
-                <a className="nav-link active" href="/certificates">
+                <a
+                  className="nav-link active"
+                  href="/certificates"
+                  rel="noreferrer"
+                >
                   Certificates
                 </a>
               </li>

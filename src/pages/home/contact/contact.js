@@ -33,6 +33,7 @@ export default function Contact() {
               <a
                 href="https://www.linkedin.com/in/enrique-castillo-corona/"
                 target="_blank"
+                rel="noreferrer"
               >
                 <label>
                   <i className="bi bi-linkedin"> </i>

@@ -11,7 +11,7 @@ export default function Studies() {
       <h1>Studies</h1>
       <div className="studies-body">
         <div>
-          <a target="_blank" href="https://lasalle.mx/">
+          <a target="_blank" href="https://lasalle.mx/" rel="noreferrer">
             <img className="imgLaSalle" src={LaSalle} alt="La Salle Logo" />
           </a>
           <h2>Career: Cybernetic and Computer Systems Enginnering</h2>
@@ -22,6 +22,7 @@ export default function Studies() {
           <a
             target="_blank"
             href="https://ceneval.edu.mx/examenes-egreso-egel/"
+            rel="noreferrer"
           >
             <img className="imgCENEVAL" src={CENEVAL} alt="La Salle Logo" />
           </a>

@@ -21,15 +21,19 @@ export default function Footer() {
           <div className="col">
             <h6>Pages</h6>
             <ul className="list-group list-group-flush">
-              <a className="list-group-item" href="/">
+              <a className="list-group-item" href="/" rel="noreferrer">
                 <i className="bi bi-house-fill"> </i>
                 Home
               </a>
-              <a className="list-group-item" href="/contact">
+              <a className="list-group-item" href="/contact" rel="noreferrer">
                 <i className="bi bi-person-circle"> </i>
                 Contact
               </a>
-              <a className="list-group-item" href="/certificates">
+              <a
+                className="list-group-item"
+                href="/certificates"
+                rel="noreferrer"
+              >
                 <i className="bi bi-award"> </i>
                 Certificates
               </a>

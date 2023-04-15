@@ -12,7 +12,7 @@ export default function experience() {
         <h2>MNJ CAPITAL - IT area Auxiliar</h2>
         <h4>APRIL 2022 - OCTOBER 2022</h4>
         <div className="card-exp-content">
-          <a href="https://mnjcapital.com.mx/" target="_blank">
+          <a href="https://mnjcapital.com.mx/" target="_blank" rel="noreferrer">
             <img src={mnjCapital} alt="img" />
           </a>
           <div className="card-text">
@@ -56,7 +56,11 @@ export default function experience() {
         <h2>Laboratorio de Cómputo de Ingeníeria La Salle - WEB Programmer</h2>
         <h4>AUGUST 2021 - FEBRUARY 2022</h4>
         <div className="card-exp-content">
-          <a href="https://ingenieria.lasalle.mx/" target="_blank">
+          <a
+            href="https://ingenieria.lasalle.mx/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img src={laSalle} alt="img" />
           </a>
           <div className="card-text">

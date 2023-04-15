@@ -14,10 +14,16 @@ export default function Error404() {
         <img src={err404} alt={"Error 404"} width="150px" />
         <h1>Error 404. Page Not Found</h1>
         Illustration by{" "}
-        <a href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6">
+        <a
+          href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6"
+          rel="noreferrer"
+        >
           Icons 8
         </a>{" "}
-        from <a href="https://icons8.com/illustrations">Ouch!</a>
+        from{" "}
+        <a href="https://icons8.com/illustrations" rel="noreferrer">
+          Ouch!
+        </a>
       </div>
     </>
   );
