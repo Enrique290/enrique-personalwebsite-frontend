@@ -26,7 +26,7 @@ export default function Contact() {
 
             <label>
               <i className="bi bi-envelope-fill"> </i>
-              enriquecastillocorona@gmail.com
+              engr.enrique.castillo@gmail.com
             </label>
 
             <div className="linkedin">

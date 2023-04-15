@@ -1,6 +1,6 @@
 import React from "react";
 
-import laSalle from "../../../assets/img/homePage/LaSalle.png";
+import laSalle from "../../../assets/img/homePage/studies/LaSalle.png";
 import mnjCapital from "../../../assets/img/homePage/experience/mnjCapitalLogo.png";
 import "./experience.css";
 

@@ -39,7 +39,7 @@ export default function Footer() {
             <h6>Contact</h6>
             <label>
               <i className="bi bi-envelope-fill"> </i>
-              enriquecastillocorona@gmail.com
+              engr.enrique.castillo@gmail.com
             </label>
             <div className="socialNetwork d-flex">
               <SocialNetworks />
