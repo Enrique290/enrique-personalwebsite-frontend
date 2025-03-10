@@ -10,8 +10,11 @@ export default function AboutMe() {
             </div>
             <div>
                 <h2>
-                    The last website update was at October 24, 2022.
+                    The last website update was at May 2023.
                     I am working for a new update to my personal webpage.
+                </h2>
+                <br />
+                <h2>
                     COMING SOON...
                 </h2>
             </div>
